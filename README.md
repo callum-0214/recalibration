@@ -52,7 +52,6 @@ The repository covers:
 | `data/Y.xlsx` | Exchange-rate series for the nine currencies. |
 | `data/uip_l1_save_{loglik,means,covariance}.npz` | Model forecasts for the exchange-rate pool: log-likelihoods, predictive means and covariances. |
 | `data/data.xlsx` | US inflation, with each of the four models' predictive mean, variance and degrees of freedom (sheets `Inflation`, `Agent Mean`, `Agent Var`, `Agent dof`). |
-| `data/*.mat`, `data/GBP_USD_historical.csv` | Auxiliary inputs kept from earlier work. |
 
 ## Getting started
 
