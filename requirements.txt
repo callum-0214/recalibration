@@ -1,0 +1,11 @@
+# Tested with Python 3.13
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+statsmodels>=0.14
+torch>=2.3
+joblib>=1.4
+openpyxl>=3.1
+jupyter
