@@ -6,7 +6,7 @@ predictive distribution each period. We map its probability integral transforms 
 time-varying recalibration function so the corrected forecasts are better calibrated and score
 better out of sample.
 
-The repository covers:
+The repository covers: 
 
 - **Simulations**: replications across several data-generating scenarios and seeds.
 - **Exchange rates**: nine currencies against the USD (AUD, CAD, CHF, EUR, GBP, JPY, NOK, NZD, SEK).
