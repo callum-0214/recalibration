@@ -77,6 +77,9 @@ it. On first run:
 
 ## Acknowledgements
 
+- `ldf.py` is the implementation of the Loss Discounting Framework from Bernaciak, D. and
+  Griffin, J. E. (2024), "A loss discounting framework for model averaging and selection in time
+  series models", *International Journal of Forecasting* 40(4), 1721–1733.
 - `bps.py` ports the MATLAB code accompanying McAlinn, K. and West, M. (2019), "Dynamic Bayesian
   predictive synthesis in time series forecasting", *Journal of Econometrics* 210, 155–169.
 - `rational_quadratic.py`, `nn.py` and `utils/` are adapted from
