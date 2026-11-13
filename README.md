@@ -88,4 +88,4 @@ it. On first run:
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE). The files adapted from nflows keep their original MIT notice, included in the same file.
+MIT. See [LICENSE](LICENSE). The files adapted from nflows keep their original MIT notice, in [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES).
