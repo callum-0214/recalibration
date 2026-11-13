@@ -85,3 +85,7 @@ it. On first run:
 - `rational_quadratic.py`, `nn.py` and `utils/` are adapted from
   [nflows](https://github.com/bayesiains/nflows) (Durkan, Bekasov, Murray and Papamakarios, MIT
   licence).
+
+## Licence
+
+MIT. See [LICENSE](LICENSE). The files adapted from nflows keep their original MIT notice, included in the same file.
